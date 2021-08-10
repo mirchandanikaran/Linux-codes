@@ -1,4 +1,5 @@
 clear
+sudo apt install linuxlogo
 echo ""
 linuxlogo
 lsb_release -irdc
